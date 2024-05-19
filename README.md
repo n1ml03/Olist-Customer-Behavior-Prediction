@@ -1,4 +1,4 @@
-# PHÂN TÍCH HÀNH VI KHÁCH HÀNG - PROJECT CUÓI KỲ KHAI PHÁ DỮ LIỆU
+# PHÂN TÍCH HÀNH VI KHÁCH HÀNG - PROJECT CUỐI KỲ KHAI PHÁ DỮ LIỆU
 
 
 ## PHÂN TÍCH HÀNH VI NGƯỜI DÙNG
@@ -7,7 +7,7 @@ Trong bài toán này, nhóm chúng em đề xuất phương pháp phân khúc k
 
 ![Olist](Images/marketing-analytics-featured-image.jpg)
 
-Việc hiểu khách hàng và đưa ra được những chiến lược marketing phù hợp là vô cùng quan trọng để tối đa doanh thu, tăng số lượng đơn đặt hàng cũng như khách hàng thân thiết, chung thành. 
+Việc hiểu khách hàng và đưa ra được những chiến lược marketing phù hợp là vô cùng quan trọng để tối đa doanh thu, tăng số lượng đơn đặt hàng cũng như khách hàng thân thiết, trung thành. 
 
 ![geo](Images/regions.png)
 
@@ -30,7 +30,7 @@ Việc hiểu khách hàng và đưa ra được những chiến lược marketi
 * Được cá nhân hoá trải nghiệm mua sắm nhờ hệ thống gợi ý sản phẩm 
 * Được phân khúc thành các nhóm và được nhận ưu đãi phù hợp.
 
-# Installation
+# Hướng dẫn chạy
 
 `git clone https://github.com/n1ml03/Project-Data-Mining.git`
 
