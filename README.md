@@ -30,7 +30,7 @@ Việc hiểu khách hàng và đưa ra được những chiến lược marketi
 * Được cá nhân hoá trải nghiệm mua sắm nhờ hệ thống gợi ý sản phẩm 
 * Được phân khúc thành các nhóm và được nhận ưu đãi phù hợp.
 
-# Installation
+# Hướng dẫn chạy
 
 `git clone https://github.com/n1ml03/Project-Data-Mining.git`
 
